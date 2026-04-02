@@ -24,6 +24,8 @@ public class arrayTools{
       System.out.print(","+toPrint[i]);
     }
 
+    System.out.println("");
+
   }
 
 }
